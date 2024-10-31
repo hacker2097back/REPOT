@@ -34,11 +34,11 @@ Enhance your Telegram interactions effortlessly with H4CK3R VIEW 2097!
 
 | 7 | apt install git -y
 
-| 8 | git clone https://github.com/hacker2097back/h4cker-view-2097.git
+| 8 | git clone https://github.com/hacker2097back/REPOT.git
 
-| 9 | cd h4cker-view-2097
+| 9 | cd REPOT
 
-| 10 | python h4cker-view-2097.py
+| 10 | python REPOT.py
 
 # IF NOT WORK 
 
